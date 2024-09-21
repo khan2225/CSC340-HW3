@@ -1,0 +1,66 @@
+body{
+    font-family: 'Helvetica', sans-serif;
+    color: black;
+    background-color: #fffdd0;
+    }
+
+header{
+    background-image: url('banner.png');
+    background-size: center;
+    background-position: center;
+    background-color: #fdfd96;
+    padding: 100px 0;
+}
+
+h1, h2{
+    font-size: 48px;
+    color: black;
+
+
+}
+
+p{
+    font-size: 18px;
+    line-height: 1.6;
+    color: black;
+
+}
+
+
+ul{
+    list-style-type: none;
+
+}
+
+ul li{
+    font-size: 18px;
+    margin 10px 0;
+    color: black;
+
+
+}
+
+section.highlight {
+    background-color: #fdfd96;
+    color: black;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+.bio-description{
+    font-size:1.1rem;
+    color: black;
+    margin-bottom:15px;
+
+
+}
+
+
+
+footer{
+    background-color: #fdfd96;
+    color: black;
+    padding: 20px;
+
+}
